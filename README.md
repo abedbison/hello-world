@@ -6,5 +6,5 @@ Hello World!
 I'm learning to use git
 
 
-With coffee and fries
+With coffee and fries,
 Writer
