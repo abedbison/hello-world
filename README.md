@@ -11,6 +11,6 @@ Messing the code again
 
 With coffee and fries,
 Writer
-
 I'm using git writer here
 I'm eating candies, cookies, and some cheese
+Hip Hip [] // <- An Array
