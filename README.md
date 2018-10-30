@@ -9,4 +9,5 @@ I'm learning to use git
 With coffee and fries,
 Writer
 
-i'm using git writer here
+I'm using git writer here
+I'm eating candies, cookies, and some cheese
